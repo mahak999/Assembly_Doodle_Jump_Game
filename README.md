@@ -24,3 +24,5 @@ R/r - reset game
 - On-Screen Notifications
 
 - Lethal Creatures
+
+## Project Grade: 20/20
